@@ -1,0 +1,8 @@
+{
+  "name": "NexCure",
+  "description": "NexCure coordinates hospital-to-home patient recovery, manages care plans and medication schedules, and detects post-discharge follow-up gaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
